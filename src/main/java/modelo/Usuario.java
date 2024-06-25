@@ -6,7 +6,7 @@ package modelo;
 
 /**
  *
- * @author Guiye
+ * @author Silvana Callejas Meneses
  */
 public class Usuario {
     

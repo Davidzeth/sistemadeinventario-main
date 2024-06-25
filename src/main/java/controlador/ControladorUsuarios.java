@@ -17,7 +17,7 @@ import modeloDAO.UsuarioDAO;
 
 /**
  *
- * @author Guiye
+ * @author Silvana Callejas Meneses
  */
 public class ControladorUsuarios extends HttpServlet {
 

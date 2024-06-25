@@ -9,7 +9,7 @@ import modelo.Usuario;
 
 /**
  *
- * @author Guiye
+ * @author Deyvid Edilson Chmabi Averanga
  */
 public interface InterfazUsuarioDAO {
     public List<Usuario> getUsuarios();

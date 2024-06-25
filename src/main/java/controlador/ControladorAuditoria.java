@@ -19,7 +19,7 @@ import modeloDAO.AuditoriaDAO;
 
 /**
  *
- * @author Guiye
+ * @author Silvana Callejas Meneses
  */
 public class ControladorAuditoria extends HttpServlet {
 

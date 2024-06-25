@@ -14,7 +14,7 @@ import modelo.Auditoria;
 
 /**
  *
- * @author Guiye
+ * @author Silvana Callejas Meneses
  */
 public class AuditoriaDAO implements InterfazAuditoriaDAO{
 

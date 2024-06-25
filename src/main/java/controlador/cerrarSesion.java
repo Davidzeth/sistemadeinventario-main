@@ -13,7 +13,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author Guiye
+ * @author Silvana Callejas Meneses
  */
 public class cerrarSesion extends HttpServlet {
 

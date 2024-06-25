@@ -9,7 +9,7 @@ import modelo.Auditoria;
 
 /**
  *
- * @author Guiye
+ * @author Deyvid Edilson Chmabi Averanga
  */
 public interface InterfazAuditoriaDAO {
     
